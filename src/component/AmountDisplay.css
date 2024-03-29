@@ -1,0 +1,33 @@
+.budget-container{
+    /* background-color: yellow; */
+    text-align: center;
+    padding: 1rem;
+}
+
+.cart-holder{
+    /* background-color: bisque; */
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart{
+    background-color: rgba(203, 201, 201, 0.869);
+    padding: 1rem;
+    border-radius: 0.4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: not-allowed;
+}
+
+.c1{
+    color: black;
+}
+
+.c2{
+    color: green;
+}
+
+.c3{
+    color: blue;
+}
